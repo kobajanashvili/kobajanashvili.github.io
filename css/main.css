@@ -134,7 +134,7 @@ ul,li{
 #intro{
     background: url('../img/bg2.jpg') no-repeat center top;
     padding-top: 73px;
-    padding-bottom: 86px;
+    padding-bottom: 12px;
 }
 .food{
     text-align: center;
@@ -150,12 +150,38 @@ ul,li{
     margin-top: 18px;
 }
 .food__text{
-    margin-top: 34px;
+    /* margin-top: 34px; */
     font-family: 'Lato', sans-serif;
     width: 406px;
     font-size: 16px;
+    margin: 34px auto 0 auto;
 }
 .food__chef{
     margin-top: 45px;   
 
+}
+#ingredients{
+    background: url('../img/bg3.jpg') no-repeat center top;
+}
+.ingredient{
+    margin: 100px  0;
+    padding: 80px  0 74px 0;  
+    background: url('../img/bg-s3.png') no-repeat center;
+    text-align: center;
+    color: #fff;
+}
+.ingredient__title{
+   font-family: 'Yeseva One', cursive;
+   font-size: 36px;
+}
+.ingredient__img{
+    margin-top:15px;
+}
+.ingredient__text{
+    padding-top: 32px;
+    padding-bottom: 70px;
+    width: 400px;
+    margin: 0 auto;
+    font-family: 'Lato', sans-serif;
+    font-size: 16px;
 }
