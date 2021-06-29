@@ -1,4 +1,4 @@
 # kobajanashvili.github.io
 Restaurant
 
-- This project: kobajanashvili.github.io
+- This project: kobajanashvili.github.io/
